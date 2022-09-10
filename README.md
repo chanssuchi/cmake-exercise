@@ -1,9 +1,10 @@
 # cmake-exercise
-## Example1
+## Example01
+编译常规项目。
 ```
-example1
-├── bin
+example01
 ├── build
+│   └── README.md
 ├── CMakeLists.txt
 ├── include
 │   ├── func1.h
@@ -14,3 +15,16 @@ example1
     ├── func2.cpp
     └── main.cpp
 ```
+## Example02
+编译库。
+```
+example02
+├── build
+│   └── README.md
+├── CMakeLists.txt
+└── math
+    ├── math.cpp
+    └── math.h
+```
+
+
