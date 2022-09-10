@@ -1,2 +1,2 @@
-# camke-exercise
+# cmake-exercise
 cmake练习
