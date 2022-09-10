@@ -26,5 +26,20 @@ example02
     ├── math.cpp
     └── math.h
 ```
+## Example03
+```
+example03
+├── build
+│   └── README.md
+├── CMakeLists.txt
+├── mymath
+│   ├── include
+│   │   └── mymath.h
+│   └── lib
+│       ├── libmymath.a
+│       └── libmymath.so
+└── src
+    └── main.cpp
+```
 
 
