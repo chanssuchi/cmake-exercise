@@ -42,5 +42,26 @@ example03
 └── src
     └── main.cpp
 ```
-
-
+## Example04
+条件编译。
+```
+example04
+├── bin
+├── build
+│   └── README.md
+├── CMakeLists.txt
+└── src
+    ├── app.cpp
+    └── main.cpp
+```
+## Example05
+条件编译。
+```
+example05
+├── bin
+├── build
+│   └── README.md
+├── CMakeLists.txt
+└── src
+    └── main.cpp
+```
